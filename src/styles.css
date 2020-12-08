@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Home {
+  margin-top: 20px;
+}
+
+.Detail {
+  margin-top: 20px;
+}
+
+.card {
+  margin: 5px 5px 5px 5px;
+}
+
+.container {
+  max-width: 325px;
+  /* max-height: 500px; */
+}
